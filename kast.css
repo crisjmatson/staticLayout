@@ -1,0 +1,56 @@
+body {
+		font-family: "FontAwesome";
+		font-display: block;
+		src: url(../webfonts/free-fa-solid-900.eot);
+		src: url(../webfonts/free-fa-solid-900.eot?#iefix)
+				format("embedded-opentype"),
+			url(../webfonts/free-fa-solid-900.woff2) format("woff2"),
+			url(../webfonts/free-fa-solid-900.woff) format("woff"),
+			url(../webfonts/free-fa-solid-900.ttf) format("truetype"),
+			url(../webfonts/free-fa-solid-900.svg#fontawesome) format("svg");
+}
+.font {
+	font-family: "Roboto", sans-serif;
+}
+.banner {
+	background-image: url("https://www.kastapp.co/assets/pages/home/gradient-violet-bg.jpg");
+	background-color: #531f62;
+	background-size: cover;
+	padding-top: 83px !important;
+	padding-bottom: 60px !important;
+	margin-left: -1px;
+    margin-right: -1px;
+    width: 1402px;
+    height: 391px;
+}
+.innerBanner{
+    width: 1140px;
+    height: 220px;
+    margin: auto;
+}
+.bannerSpacer {
+    width: 1140px;
+}
+h1 {
+    margin: 30px auto 0;
+    color: white;
+    display: block;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+    font-size: 56px;
+    width: 1140px;
+    height: 48px;
+    padding: 20px;
+}
+.headDescription {
+    text-align: center;
+    color: white;
+    line-height: 40px;
+    letter-spacing: 5px;
+    width: 800px;
+    height: 68px;
+    margin: 40px auto 0 auto;
+    font-size: 30px;
+    font-weight: 100;
+}
