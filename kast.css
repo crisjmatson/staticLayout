@@ -141,7 +141,8 @@ h1 {
 	gap: 100px 100px;
 	justify-items: stretch;
 	align-items: center;
-	justify-content: stretch;
+    justify-content: stretch;
+    margin-bottom: 25px;
 }
 .featQuote {
 	text-align: right;
